@@ -5,7 +5,7 @@
 # Path to origin file that will be synced to remote machines.
 $OriginFilePath = "c:\temp\rdp.txt";
 # Path to destination where the file is stored on remote computer.
-$DestinationPath = "temp\rdp.txt";
+$DestinationPath = "temp\";
 
 # Implements remote machine logic.
 class Machine {
