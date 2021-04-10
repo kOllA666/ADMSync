@@ -1,2 +1,2 @@
 # ADMSync
- Sync file across multiple AD Machines.
+ Sync file across multiple Machines AD domain..
